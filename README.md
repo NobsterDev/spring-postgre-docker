@@ -6,7 +6,7 @@
 
 ### docker run --name postgresql-container -p 5432:5432 -e POSTGRES_PASSWORD=postgrespw -d postgres<br />
 
-### install pgadmin4<br />
+## install pgadmin4<br />
 
 #### docker run --rm -p 5050:5050 thajeztah/pgadmin4 <br />
 
@@ -14,11 +14,11 @@
 
 #### Compile the code with maven install<br />
 
-### Install app to docker tomcat<br />
+## Install app to docker tomcat<br />
 
 #### docker build -t spring-postgre<br />
 
-### Run the docker created image <br />
+## Run the docker created image <br />
 
 #### docker run -itd -p 8085:8080 spring-postgre<br />
 
