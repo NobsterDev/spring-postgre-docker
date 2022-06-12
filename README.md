@@ -4,7 +4,7 @@
 
 ## install postgresql<br />
 
-### docker run --name postgresql-container -p 5432:5432 -e POSTGRES_PASSWORD=postgrespw -d postgres<br />
+#### docker run --name postgresql-container -p 5432:5432 -e POSTGRES_PASSWORD=postgrespw -d postgres<br />
 
 ## install pgadmin4<br />
 
