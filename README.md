@@ -25,3 +25,7 @@
 #### Open<br />
 
 #### http://localhost:8085/spring-postgre/customer<br />
+
+## How it looks?
+
+![Pgadmin on right, spring app on left, docker containers in middle](screenshot.png?raw=true "Screen Shot of Working Dockers")
