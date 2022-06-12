@@ -1,4 +1,4 @@
-<h1 align="center">Narcissistic Number</h1>
+<h1 align="center">Spring app - Docker - Postgresql</h1>
 
 # How to run?
 
